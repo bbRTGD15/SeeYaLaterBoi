@@ -1,8 +1,19 @@
 {
   "title":"See Ya Later Boi",
   "artist":"DrossDraws",
-  "cover":"",
+  "cover":"https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-1/cover.jpg",
   "chapters":{
-    
+    "0":{
+      "title":"See ya later boi 1",
+      "volume":"1",
+      "groups": {
+        "":[
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-1/cover.jpg",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-1/skater%20boi%201.png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-1/skater%20boi%202.png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-1/skater%20boi%203.png",
+        ]
+      }
+    }
   }
 }
