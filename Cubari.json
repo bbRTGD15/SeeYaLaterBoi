@@ -5,7 +5,7 @@
   "author":"DrossDraws",
   "cover":"https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-1/cover.jpg",
   "chapters":{
-    "1":{
+    "0":{
       "title":"See ya later boi",
       "last_updated": 1598476968,
       "volume":"1",
@@ -43,6 +43,15 @@
           "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-1/skater%20boi%229.png"
         ]
       }
+    }
+    "1":{
+      "title":"See ya later boi 2",
+      "last_updated": 1598476968,
+      "volume":"2",
+      "groups": {
+        "":[
+          
+        ]
     }
   }
 }
