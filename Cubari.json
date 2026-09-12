@@ -44,7 +44,7 @@
         ]
       }
     },
-    "0":{
+    "1":{
       "title":"See ya later boi 2",
       "last_updated": 1598476970,
       "volume":"2",
@@ -142,7 +142,7 @@
         ]
       }
     },
-    "0":{
+    "2":{
       "title":"See ya later boi 2.1",
       "last_updated": 1598476975,
       "volume":"3",
@@ -161,10 +161,11 @@
         ]
       }
     },
-    "0":{
+    "3":{
       "title":"See ya later boi 3",
       "last_updated": 1598476975,
       "volume":"4",
+      "chapter":"0",
       "groups": {
         "":[
           "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-3/00.png",
@@ -261,10 +262,11 @@
         ]
       }
     },
-    "1":{
+    "4":{
       "title":"See ya later boi bonus",
       "last_updated": 1598476975,
       "volume":"4",
+      "chapter":"1",
       "groups": {
         "":[
           "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/bouns/cover2%20alt.png",
