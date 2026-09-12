@@ -141,6 +141,25 @@
           "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2/88.png"
         ]
       }
+    },
+    "2.1":{
+      "title":"See ya later boi 2.1",
+      "last_updated": 1598476970,
+      "volume":"2.1",
+      "groups": {
+        "":[
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2.1/Skater%20Boi%20Short%201.png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2.1/Skater%20Boi%20Short%202.png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2.1/Skater%20Boi%20Short%203%20(part%201).png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2.1/Skater%20Boi%20Short%203%20(part%202).png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2.1/Skater%20Boi%20Short%204.png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2.1/Skater%20Boi%20Short%205.png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2.1/Skater%20Boi%20Short%206%20(part%201).png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2.1/Skater%20Boi%20Short%206%20(part%202).png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2.1/Skater%20Boi%20Short%206%20(part%203).png",
+          "https://raw.githubusercontent.com/bbRTGD15/SeeYaLaterBoi/refs/heads/main/Vol-2.1/Skater%20Boi%20Short%206%20(part%204).png",
+        ]
+      }
     }
   }
 }
